@@ -1,0 +1,6 @@
+[submodule "Learning-Prompt"]
+	path = Learning-Prompt
+	url = https://github.com/thinkingjimmy/Learning-Prompt
+[submodule "Learn_Prompting"]
+	path = Learn_Prompting
+	url = https://github.com/trigaten/Learn_Prompting

@@ -1,9 +1,9 @@
 # 🌟 Learning Prompt Engineering
 
 > A curated collection of resources for mastering **Prompt Engineering**, **Generative AI**, and **Large Language Models (LLMs)**.  
-> 🚀 Join the largest Prompt Engineering learning community and explore official guides, libraries, and tutorials.
 
----
+
+
 
 ## 🤖 Official Resources
 
@@ -34,7 +34,7 @@
 - [Prompt Library - Deepseek (Official📌) 🇨🇳](https://api-docs.deepseek.com/prompt-library)  
 - [Crafting Effective Prompts - Cohere (Official📌)](https://docs.cohere.com/docs/crafting-effective-prompts)  
 
----
+
 
 ## 📚 Featured Resources
 
@@ -48,13 +48,13 @@
 
 
 
----
+
 
 ## 🏆 Contributing
 
 We welcome contributions! Feel free to submit a pull request or open an issue to suggest new resources or improvements.
 
----
+
 
 ## 📄 License
 

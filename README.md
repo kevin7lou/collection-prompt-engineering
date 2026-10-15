@@ -13,7 +13,7 @@
 - [Text Generation and Prompting - OpenAI (Official📌)](https://platform.openai.com/docs/guides/text)  
 - [Prompt Examples - OpenAI (Official📌)](https://platform.openai.com/docs/examples)  
 
-## Google
+### Google
 
 - [Prompting Guide 101 - Google (Official📌)](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)  
   > A quick-start handbook for effective prompts.  
@@ -58,7 +58,7 @@ We welcome contributions! Feel free to submit a pull request or open an issue to
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 

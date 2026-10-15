@@ -39,10 +39,10 @@
 ## 📚 Featured Resources
 
 ### Learn Prompting
-- [Learn_Prompting](https://learnprompting.org/)  ![GitHub Repo stars](https://img.shields.io/github/stars/thinkingjimmy/Learning-Prompt?style=flat&logo=github)  
+- [Learn_Prompting](https://learnprompting.org/)  ![GitHub Repo stars](https://img.shields.io/github/stars/trigaten/Learn_Prompting?style=flat&logo=github)  
   > Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting.  
 
-- [Learning-Prompt](https://learningprompt.wiki/)  ![GitHub Repo stars](https://img.shields.io/github/stars/trigaten/Learn_Prompting?style=flat&logo=github)  
+- [Learning-Prompt](https://learningprompt.wiki/)  ![GitHub Repo stars](https://img.shields.io/github/stars/thinkingjimmy/Learning-Prompt?style=flat&logo=github)  
   > Free online course for Prompt Engineering. Includes **ChatGPT** and **Midjourney** tutorials.
 
 
